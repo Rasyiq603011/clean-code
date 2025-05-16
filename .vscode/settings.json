@@ -1,0 +1,12 @@
+{
+    "workbench.colorTheme": "Material Theme Palenight",
+    "editor.fontSize": 13,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontWeight": "400",
+    "editor.lineHeight": 1.5,
+    "workbench.iconTheme": "vscode-icons",
+    "sonarlint.connectedMode.project": {
+        "connectionId": "http-localhost-9000",
+        "projectKey": "library-management"
+    }
+}
